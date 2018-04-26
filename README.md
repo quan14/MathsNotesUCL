@@ -8,4 +8,4 @@ I do have more scanned notes and further materials like revision guides, papers 
 
 ## Acknowledgments
 
-Thanks to all the people that have allowed me to scan the notes and the having the patience endure all my pleas.
+Thanks to all the people that have allowed me to scan their notes and the having the patience endure all my pleas.
