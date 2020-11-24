@@ -13,5 +13,5 @@ More Notes: https://drive.google.com/drive/folders/0B0j6Golqux7LU2JWOHdPQlJuUjg
 Thanks to all the people that have allowed me to scan their notes and the having the patience endure all my pleas.
 
 ## Enquiries
-Email: kin.quan.10@ucl.ac.uk \\
+Email: kin.quan.10@ucl.ac.uk   
 Linkedin: https://uk.linkedin.com/in/kin-quan
