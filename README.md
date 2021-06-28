@@ -17,5 +17,5 @@ Thanks to all the people that have allowed me to scan their notes and the having
 Students at UCL can get a Github license from https://www.ucl.ac.uk/isd/services/research-it/research-software-development-tools/support-for-ucl-researchers-to-use-github 
 
 ## Enquiries
-Email: kin.quan.10@ucl.ac.uk (happy to chat about the materials)
+Email: kin.quan.10@ucl.ac.uk (happy to chat about the materials)\\
 Linkedin: https://uk.linkedin.com/in/kin-quan
