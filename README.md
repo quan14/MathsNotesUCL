@@ -6,7 +6,7 @@ A chosen selection of the handwritten notes that I scanned when I was a maths un
 
 I do have more scanned notes and further materials like revision guides, papers and solutions. They are available on request, please contact me via email at kin.quan.10@ucl.ac.uk, if you are a UCL student then please use your UCL email address.
 
-More Notes: https://drive.google.com/drive/folders/0B0j6Golqux7LU2JWOHdPQlJuUjg 
+More Notes: https://drive.google.com/drive/folders/0B0j6Golqux7LU2JWOHdPQlJuUjg?resourcekey=0-pvgbc1uhkEUqwtvy8_6_jg&usp=sharing
 
 ## Acknowledgments
 
