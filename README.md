@@ -4,13 +4,13 @@ A chosen selection of the handwritten notes that I scanned when I was a maths un
 
 ## Comment on Skills and Post-16 Education Bill https://bills.parliament.uk/bills/2868
 
-In the Skills and Post-16 Education Bill, Part 4, Chapter 1 on “CHEATING SERVICES PROVIDED FOR POST-16 STUDENTS AT ENGLISH INSTITUTIONS” and Section 29, Meaning of “relevant service” and other key expressions.\
+In the Skills and Post-16 Education Bill, Part 4, Chapter 1 on “CHEATING SERVICES PROVIDED FOR POST-16 STUDENTS AT ENGLISH INSTITUTIONS” and Section 29, Meaning of “relevant service” and other key expressions.
 
-I do NOT provide a “relevant service” as materials are published generally.\
+I do NOT provide a “relevant service” as materials are published generally.
 
-All materials are available generally without payment \
+All materials are available generally without payment 
 
-In addition, some materials are contained in publications that contains other educational or training material and is available generally.\
+In addition, some materials are contained in publications that contains other educational or training material and is available generally.
 
 ## Further Materials
 
