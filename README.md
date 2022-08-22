@@ -16,7 +16,7 @@ Link all Maths Notes: https://drive.google.com/drive/folders/0B0j6Golqux7LU2JWOH
 
 I do have more scanned notes and further materials like revision guides, papers and solutions. They are available on request, please contact me (details below). If you are a UCL student, please use your UCL email address. All resources are free.
 
-## Legal
+## Legal - Skills and Post-16 Education Act 2022
 
 In Skills and Post-16 Education Act 2022 (https://www.legislation.gov.uk/ukpga/2022/21/enacted), Part 4 (Miscellaneous and general), Chapter 1 (Cheating services provided for post-16 students at English institutions). I do NOT provide a “relevant service” as materials are published generally. All materials are available generally without payment. In addition, some materials are contained in publications that contains other educational or training material and is available generally.
 
