@@ -4,13 +4,13 @@
 
 A chosen selection of the handwritten notes that I scanned when I was a maths undergraduate at University College London (UCL).
 
-All notes relate to module taught by the Maths Department.
+All notes relate to modules taught by the Maths Department.
 
 All materials are NOT endorsed by University College London.
 
 ### Further Materials
 
-Gitlab is not designed to stored PDF documents.
+Github is not designed to stored PDF documents.
 
 Link all Maths Notes: https://drive.google.com/drive/folders/0B0j6Golqux7LU2JWOHdPQlJuUjg?resourcekey=0-pvgbc1uhkEUqwtvy8_6_jg&usp=sharing
 
