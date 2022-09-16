@@ -34,6 +34,10 @@ UCL Math Department: https://www.ucl.ac.uk/maths/ucl-department-mathematics
 
 UCL Github license: https://www.ucl.ac.uk/isd/services/research-it/research-software-development-tools/support-for-ucl-researchers-to-use-github
 
+UCL Office license: https://www.ucl.ac.uk/isd/services/communicate-collaborate/microsoft-365-apps-for-enterprise
+
+UCL Windows License: https://www.ucl.ac.uk/isd/services/software-hardware/software-licence-agreements/microsoft/microsoft-campus-agreement
+
 UCL Dropbox for sharing resources: https://www.ucl.ac.uk/dropbox/
 
 Chalkdust Magazine: https://chalkdustmagazine.com/ 
