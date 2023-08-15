@@ -8,6 +8,9 @@ All notes relate to modules taught by the Maths Department.
 
 All materials are NOT endorsed by University College London.
 
+### About
+All materials relate to modules listed on https://www.ucl.ac.uk/maths/current-students/current-undergraduates/module-information-undergraduates
+
 ### Further Materials
 
 Github is not designed to stored PDF documents.
