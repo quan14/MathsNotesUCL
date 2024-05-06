@@ -17,7 +17,7 @@ Github is not designed to stored PDF documents.
 
 Link all Maths Notes: https://drive.google.com/drive/folders/0B0j6Golqux7LU2JWOHdPQlJuUjg?resourcekey=0-pvgbc1uhkEUqwtvy8_6_jg&usp=sharing
 
-I do have more scanned notes and further materials like revision guides, papers and solutions. They are available on request, please contact me (details below). If you are a UCL student, please use your UCL email address for a faster reponse. All resources are free.
+I do have more scanned notes and further materials like revision guides, papers and solutions. They are available on request, please contact me (details below). All resources are free.
 
 ## Legal - Skills and Post-16 Education Act 2022
 
