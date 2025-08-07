@@ -1,7 +1,7 @@
 # Handwritten Maths Notes from UCL
 
 > [!IMPORTANT]  
-> I am aware the resources are becoming outdated – I am happy to scan and upload new notes. I’m no longer at UCL, but if you are in the London area, I'm happy to physical collect your completed notes, scan, collate to PDF, upload to this repo and return via in person or tacked post. 
+> I am aware the resources are becoming outdated – I am happy to scan and upload new notes. I’m no longer at UCL, but if you are in the London area, I'm happy to physical collect your completed notes, scan, collate to PDF, upload to this repo and return via in person or tracked post. 
 >
 > Your work will be under one of the [Creative Commons licenses](https://creativecommons.org/share-your-work/cclicenses/)
 >
