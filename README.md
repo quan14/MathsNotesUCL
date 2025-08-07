@@ -1,5 +1,12 @@
 # Handwritten Maths Notes from UCL
 
+> [!IMPORTANT]  
+> I am aware the resources are being outdated – I am happy to scan and upload new notes. I’m no longer at UCL, but happy to physical collect your completed notes, scan, collate to PDF and return via in person or tacked post.
+>
+> Your work will be under one of the [Creative Commons licenses](https://creativecommons.org/share-your-work/cclicenses/)
+>
+> If you are interested, please contact me with the email below.
+
 ## Introduction
 
 A chosen selection of the handwritten notes that I scanned when I was a maths undergraduate at University College London (UCL).
