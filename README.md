@@ -1,4 +1,4 @@
-# Handwritten Maths Notes from UCL
+# Handwritten Maths Notes from University College London (UCL)
 
 > [!IMPORTANT]  
 > I am aware the resources are becoming outdated – I am happy to scan and upload new notes. I’m no longer at UCL, but if you are in the London area, I'm happy to physical collect your completed notes, scan, collate to PDF, upload to this repo and return via in person or tracked post. 
