@@ -34,7 +34,7 @@ In Skills and Post-16 Education Act 2022 (https://www.legislation.gov.uk/ukpga/2
 
 As a UCL alumni, I am happy for prospective and current UCL Maths students to discuss the course and life after graduation. Please use email for a faster reply.
 
-Email: kin.quan.10@ucl.ac.uk 
+Email: kin.quan.10@alumni.ucl.ac.uk
 
 Linkedin: https://uk.linkedin.com/in/kin-quan 
 
